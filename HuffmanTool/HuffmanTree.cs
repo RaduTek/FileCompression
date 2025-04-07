@@ -4,8 +4,6 @@ namespace HuffmanTool;
 public class HuffmanTree(HuffmanNode root)
 {
     private HuffmanNode? _root = root;
-    
-    
 }
 
 public static class HuffmanTreeBuilder
